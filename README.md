@@ -5,7 +5,7 @@ database. By harnessing the power of few-shot learning techniques, the applicati
 a Large Language Model (LLM) to the specific database structure. Gemini-Pro, a language model from Google, is utilized for 
 this purpose. The front end of the application is developed using Streamlit, providing an intuitive interface for users
 to seamlessly interact with the database. This project serves as a complement to the concepts discussed in the accompanying 
-[YouTube video](https://youtu.be/ANzy3oH_TtM), offering a practical implementation 
+[YouTube video](https://youtu.be/ZEtLyH6u4XE), offering a practical implementation 
 of the discussed techniques.
 
 ![RAG SQL Reader](images/rag-sql-diagram.png)
